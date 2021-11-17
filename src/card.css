@@ -1,0 +1,16 @@
+div.melca-card{
+  margin: 16px 8px;
+  border-radius: 16px;
+  box-shadow: 3px 3px 5px grey;
+  background-color: white;
+}
+
+div.melca-card > img:first-of-type {
+  height: auto;
+  width: 100%;
+  border-radius: 16px 16px 0px 0px;
+}
+
+div.melca-card > div:first-of-type {
+  padding: 8px 16px 16px 16px;
+}
